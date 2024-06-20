@@ -1,5 +1,7 @@
 import math
 
+#Bienvenidos
+
 #Triangulo
 
 Base_Triangulo = float (input ("¿Cual es la medida de la base del triangulo? "))
